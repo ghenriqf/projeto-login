@@ -1,5 +1,11 @@
 # Tela de Login - HTML e CSS
 
+---
+
+Acesse o projeto online: [Clique aqui para ver o site](https://ghenriqf.github.io/projeto-login/)
+
+---
+
 Este é um pequeno projeto proposto no curso de HTML5 e CSS3 do professor Gustavo Guanabara, do canal Curso em Vídeo. O objetivo principal foi praticar a criação de formulários e o uso de media queries para adaptar a tela em diferentes tamanhos de dispositivos.
 
 ## Objetivos do Projeto
