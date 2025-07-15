@@ -37,7 +37,7 @@ main {
 
 #login > #img {
   display: block;
-  background: url(/imgs/metal.jpg) no-repeat;
+  background: url(imgs/metal.jpg) no-repeat;
   height: 200px;
   background-size: cover;
   background-position: left bottom;
